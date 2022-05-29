@@ -28,9 +28,13 @@
 
 - b. Hitung Sampel Statistik
   
+  ![Output Script Pooled Variance](img/3_b_pooled%20variance.jpg)
+
   Pooled-Variance $t$
 
   $S_p^2=2.1705$
+
+  ![Output Script t-test nomor 3](img/3_b.jpg)
 
   $t=1.9267$
 
@@ -44,7 +48,7 @@
 
 - d. Nilai Kritikal
   
-  Nilai kritikal $=\plusmn2.9200$
+  Nilai kritikal $=\plusmn 2.9200$
   Maka, nilai uji T terletak di luar daerah tolak $H_0$
 
 - e. Keputusan
@@ -58,6 +62,24 @@
 
 ## No 4
 
+- a. Buatlah masing masing jenis spesies menjadi 3 subjek "Grup" (grup 1,grup
+2,grup 3).Lalu Gambarkan plot kuantil normal untuk setiap kelompok dan
+lihat apakah ada outlier utama dalam homogenitas varians.
 
+- b. carilah atau periksalah Homogeneity of variances nya , Berapa nilai p yang
+didapatkan? , Apa hipotesis dan kesimpulan yang dapat diambil ?
+
+- c. Untuk uji ANOVA (satu arah), buatlah model linier dengan Panjang versus
+Grup dan beri nama model tersebut model 1.
+
+- d. Dari Hasil Poin C, Berapakah nilai-p ? , Apa yang dapat Anda simpulkan
+dari H0?
+
+- e. Verifikasilah jawaban model 1 dengan Post-hoc test Tukey HSD, dari nilai p
+yang didapatkan apakah satu jenis kucing lebih panjang dari yang lain?
+3
+Jelaskan.
+
+- f. Visualisasikan data dengan ggplot2
 
 ## No 5
